@@ -16,7 +16,7 @@ This is a full-stack **developer portfolio website** built with:
 
 - 🗄️ **MySQL** database
 
-It showcases your **skills**, **projects**, **resume**, and includes a **contact form** that connects directly to the backend via **REST APIs**.
+It showcases your **skills**, **projects**, **resume**, **certificate**, and includes a **contact form** that connects directly to the backend via **REST APIs**.
 
 ---
 
